@@ -1,0 +1,22 @@
+Bilal Asghar
+I am Batman
+Mohammad Rohan,Zain,Umair Maqsood,Usman Lari,Faiq Saeed
+Umair Maqsod
+Student
+Bilal Asghar,Bilal Razaq,Faiq Saeed,Abdllah Ijaz
+M Rohan
+I'm Black
+Bilal Asghar,Shehryar Amir,Faiq Saeed,Umair Maqsood
+
+Notifications
+Bilal Asghar
+Usman Lari Shared a memory
+Faiq Saeed Tagged you in a post
+M Rohan Liked your post
+
+Umair Maqsood
+You have a new friend suggestion
+
+M Rohan
+Bilal Asghar commented on your photo
+Usman Lari sent you a message
