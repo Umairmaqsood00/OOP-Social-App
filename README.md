@@ -40,10 +40,18 @@ View personal messages, reply to them, and send new messages.
 
 ## 🗂️ File Usage
 File Name	Description
+
 login.txt	Stores usernames and passwords
+
 info.txt	Stores personal info, bios, and friends
+
 timeline.txt	Contains posts made by users
+
 comment.txt	Stores comments and page data
+
 likecom.txt	Records likes and their users
+
 feed.txt	Contains general posts shown in the feed
+
 messages.txt	Handles messaging data between users
+
