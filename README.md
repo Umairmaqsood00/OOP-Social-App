@@ -1,11 +1,11 @@
 #  CLI Social Media App (OOP-Based)
-Welcome to the CLI Social Media App, a console-based project built using Object-Oriented Programming (OOP) concepts in C++. This project demonstrates core OOP principles like encapsulation, inheritance, and abstraction, and offers basic features of a social media platform — all through a command-line interface.
+Welcome to the CLI Social Media App, a console-based project built using Object-Oriented Programming (OOP) concepts in C++. This project demonstrates core OOP principles like encapsulation, inheritance, and abstraction, and offers basic features of a social media platform  all through a command-line interface.
 
 ## 📌 Features
 ### 🔐 Login System: 
 Secure user login with username and password verification from a file.
 
-###👤 Personal Info Management:
+##👤 Personal Info Management:
 Display and manage personal bio and friend list.
 
 ### 🧑‍🤝‍🧑 Friend Requests:
