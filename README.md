@@ -1,24 +1,33 @@
-# 🧵 CLI Social Media App (OOP-Based)
+#  CLI Social Media App (OOP-Based)
 Welcome to the CLI Social Media App, a console-based project built using Object-Oriented Programming (OOP) concepts in C++. This project demonstrates core OOP principles like encapsulation, inheritance, and abstraction, and offers basic features of a social media platform — all through a command-line interface.
 
 ## 📌 Features
-## 🔐 Login System: Secure user login with username and password verification from a file.
+## 🔐 Login System: 
+Secure user login with username and password verification from a file.
 
-## 👤 Personal Info Management: Display and manage personal bio and friend list.
+## 👤 Personal Info Management:
+Display and manage personal bio and friend list.
 
-## 🧑‍🤝‍🧑 Friend Requests: View and accept pending friend requests (with a 5-friend limit).
+## 🧑‍🤝‍🧑 Friend Requests:
+View and accept pending friend requests (with a 5-friend limit).
 
-## 📰 Timeline: View your timeline, see others’ posts, and create your own posts.
+## 📰 Timeline: 
+View your timeline, see others’ posts, and create your own posts.
 
-## ❤️ Likes & Comments: Like posts and leave comments, mimicking a real feed interaction.
+## ❤️ Likes & Comments:
+Like posts and leave comments, mimicking a real feed interaction.
 
-## 📄 Pages: View pages you've interacted with and see additional page-related info.
+## 📄 Pages: 
+View pages you've interacted with and see additional page-related info.
 
-## 🔔 Notifications: Read notifications relevant to your activity.
+## 🔔 Notifications:
+Read notifications relevant to your activity.
 
-## 🗣️ User Feed: Interact with trending or public posts by liking or commenting.
+## 🗣️ User Feed:
+Interact with trending or public posts by liking or commenting.
 
-## ✉️ Messages: View personal messages, reply to them, and send new messages.
+## ✉️ Messages:
+View personal messages, reply to them, and send new messages.
 
 ## 💡 Object-Oriented Concepts Used
 ✅ Encapsulation: Data hiding with accessors and mutators (getters/setters).
