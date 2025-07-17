@@ -54,4 +54,6 @@ likecom.txt	Records likes and their users
 feed.txt	Contains general posts shown in the feed
 
 messages.txt	Handles messaging data between users
+<img width="1364" height="729" alt="image" src="https://github.com/user-attachments/assets/15d4b20a-f20d-4a21-8a48-05365fa19f26" />
+
 
