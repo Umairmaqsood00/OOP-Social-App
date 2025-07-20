@@ -62,5 +62,6 @@ The app uses file-based storage to simulate a database:
 
 - C++ compiler (g++, clang++, etc.)
 - Command-line terminal (Windows CMD, Terminal, etc.)
+<img width="1365" height="767" alt="oop ss" src="https://github.com/user-attachments/assets/ef96ca7b-722d-4a76-a6d3-a222c6622ca0" />
 
 
