@@ -1,59 +1,67 @@
-#  CLI Social Media App (OOP-Based)
-Welcome to the CLI Social Media App, a console-based project built using Object-Oriented Programming (OOP) concepts in C++. This project demonstrates core OOP principles like encapsulation, inheritance, and abstraction, and offers basic features of a social media platform  all through a command-line interface.
+# 🌟 OOP Social App (C++ Console Project)
 
-## 📌 Features
-### 🔐 Login System: 
-Secure user login with username and password verification from a file.
+Welcome to the **OOP Social App** — a beginner-friendly C++ console application that simulates a basic social media platform using core Object-Oriented Programming concepts.
 
-##👤 Personal Info Management:
-Display and manage personal bio and friend list.
+---
 
-### 🧑‍🤝‍🧑 Friend Requests:
-View and accept pending friend requests (with a 5-friend limit).
+## 🚀 Features
 
-### 📰 Timeline: 
-View your timeline, see others’ posts, and create your own posts.
+- **Signup & Signin**  
+  Create a new account or log in using your username and password.
 
-### ❤️ Likes & Comments:
-Like posts and leave comments, mimicking a real feed interaction.
+- **Create Post**  
+  Share your thoughts with others in the community.
 
-### 📄 Pages: 
-View pages you've interacted with and see additional page-related info.
+- **Add Comment**  
+  Comment on any post made by users.
 
-### 🔔 Notifications:
-Read notifications relevant to your activity.
+- **View Posts**  
+  Browse all posts shared by users.
 
-### 🗣️ User Feed:
-Interact with trending or public posts by liking or commenting.
+- **View Comments**  
+  See all comments linked to any post.
 
-##3 ✉️ Messages:
-View personal messages, reply to them, and send new messages.
+- **Like a Post**  
+  Like a post (one like per user per post is allowed).
 
-## 💡 Object-Oriented Concepts Used
-✅ Encapsulation: Data hiding with accessors and mutators (getters/setters).
+- **Set/Edit Bio**  
+  Add or update your personal bio.
 
-✅ Abstraction: User-friendly interface to hide the implementation details.
+- **View My Profile**  
+  See your username, bio, all your posts, likes, and comments received.
 
-✅ Inheritance: The app class inherits from the user class.
+---
 
-✅ Composition: Classes like Posts, Comments, and PersonalInfo are used within user.
+## 🛠️ How It Works
 
-## 🗂️ File Usage
-File Name	Description
+The app uses file-based storage to simulate a database:
 
-login.txt	Stores usernames and passwords
+- `login.txt` → Stores usernames and passwords  
+- `user.txt` → Stores usernames and bios  
+- `feed.txt` → Stores all user posts  
+- `comments.txt` → Stores comments (linked by post index)  
+- `likecom.txt` → Stores likes (linked by post index and user)
 
-info.txt	Stores personal info, bios, and friends
+---
 
-timeline.txt	Contains posts made by users
+## 📁 File Structure
 
-comment.txt	Stores comments and page data
+| File Name        | Description                                          |
+|------------------|------------------------------------------------------|
+| `utils.h`        | Contains all class definitions (`User`, `Post`, `Comment`, `App`) |
+| `utils.cpp`      | Contains the core logic and menu-driven system       |
+| `login.txt`      | Stores user credentials                              |
+| `user.txt`       | Stores user bios                                     |
+| `feed.txt`       | Stores posts shared by users                         |
+| `comments.txt`   | Stores comments along with their post references     |
+| `likecom.txt`    | Stores information about likes on posts              |
 
-likecom.txt	Records likes and their users
+---
 
-feed.txt	Contains general posts shown in the feed
+## 📌 Requirements
 
-messages.txt	Handles messaging data between users
-<img width="1364" height="729" alt="image" src="https://github.com/user-attachments/assets/15d4b20a-f20d-4a21-8a48-05365fa19f26" />
+- C++ compiler (g++, clang++, etc.)
+- Command-line terminal (Windows CMD, Terminal, etc.)
+<img width="1365" height="767" alt="oop ss" src="https://github.com/user-attachments/assets/ef96ca7b-722d-4a76-a6d3-a222c6622ca0" />
 
 
