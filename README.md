@@ -7,7 +7,7 @@ Welcome to the **OOP Social App** — a beginner-friendly C++ console applicatio
 ## 🚀 Features
 
 - **Signup & Signin**  
-  Create a new account or log in using your username and password.
+  Create a new account or log in using your username and password
 
 - **Create Post**  
   Share your thoughts with others in the community.
